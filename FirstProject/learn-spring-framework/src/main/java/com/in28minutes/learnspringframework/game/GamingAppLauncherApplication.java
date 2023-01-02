@@ -10,6 +10,8 @@ public class GamingAppLauncherApplication {
 
     public static void main(String[] args) {
 
+        // comment
+
         try(var context =
                 new AnnotationConfigApplicationContext(GamingAppLauncherApplication.class)) {
 
